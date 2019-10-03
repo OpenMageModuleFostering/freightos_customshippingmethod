@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Freightos_Customshippingmethod",
+    "name": "OpenMageModuleFostering\/Freightos_Customshippingmethod",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Real-time international air, ocean and trucking freight rates for shipping.",
     "authors": [
-    {
-        "name": "Adel Hazboun",
-        "email": "adel@freightos.com"
-    }
-],
+        {
+            "name": "Adel Hazboun",
+            "email": "adel@freightos.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
